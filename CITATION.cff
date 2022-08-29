@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Mai"
+  given-names: "Nguyen Anh Minh"
+  orcid: "https://orcid.org/0000-0001-9672-8909"
+- family-names: "Duthon"
+  given-names: "Pierre"
+  orcid: "https://orcid.org/0000-0002-6705-1131"
+- family-names: "Khoudour"
+  given-names: "Louahdi"
+  orcid: "https://orcid.org/0000-0002-5947-4302"
+- family-names: "Crouzil"
+  given-names: "Alain"
+  orcid: "https://orcid.org/0000-0001-7040-2978"
+- family-names: "Velastin"
+  given-names: "Sergio A."
+  orcid: "https://orcid.org/0000-0001-6775-7137"
+title: "3D Object Detection with SLS-Fusion Network in Foggy Weather Conditions"
+# version: 0.0.1
+doi: https://doi.org/10.3390/s21206711
+date-released: 2021-10-09
+url: "https://github.com/maiminh1996/MultifogKITTI"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Mai"
+    given-names: "Nguyen Anh Minh"
+    orcid: "https://orcid.org/0000-0001-9672-8909"
+  - family-names: "Duthon"
+    given-names: "Pierre"
+    orcid: "https://orcid.org/0000-0002-6705-1131"
+  - family-names: "Khoudour"
+    given-names: "Louahdi"
+    orcid: "https://orcid.org/0000-0002-5947-4302"
+  - family-names: "Crouzil"
+    given-names: "Alain"
+    orcid: "https://orcid.org/0000-0001-7040-2978"
+  - family-names: "Velastin"
+    given-names: "Sergio A."
+    orcid: "https://orcid.org/0000-0001-6775-7137"
+  doi: "https://doi.org/10.3390/s21206711"
+  journal: "Sensors"
+  # month: 9
+  # start: 1 # First page number
+  # end: 10 # Last page number
+  title: "3D Object Detection with SLS-Fusion Network in Foggy Weather Conditions"
+  # issue: 1
+  volume: 21
+  year: 2021
+  number: 20
+  article-number: 6711
+  url: https://www.mdpi.com/1424-8220/21/20/6711
+  pubmedid: 34695925
+  issn: 1424-8220
+  doi: 10.3390/s21206711
