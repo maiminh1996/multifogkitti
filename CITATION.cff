@@ -16,7 +16,7 @@ authors:
 - family-names: "Velastin"
   given-names: "Sergio A."
   orcid: "https://orcid.org/0000-0001-6775-7137"
-title: "3D Object Detection with SLS-Fusion Network in Foggy Weather Conditions"
+title: 3D Object Detection with SLS-Fusion Network in Foggy Weather Conditions
 # version: 0.0.1
 doi: https://doi.org/10.3390/s21206711
 date-released: 2021-10-09
