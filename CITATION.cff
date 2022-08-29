@@ -44,7 +44,7 @@ preferred-citation:
   # month: 9
   # start: 1 # First page number
   # end: 10 # Last page number
-  title: "3D Object Detection with SLS-Fusion Network in Foggy Weather Conditions"
+  title: 3D Object Detection with SLS-Fusion Network in Foggy Weather Conditions
   # issue: 1
   volume: 21
   year: 2021
